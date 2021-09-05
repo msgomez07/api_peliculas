@@ -1,0 +1,579 @@
+{
+    "animes":[
+        {
+            "id": 1,
+            "titulo": "Los Caballeros del Zodiaco: La saga de Hades",
+            "lanzamiento": "2002",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630742107/api_sprint2/saga_de_hades_tycfha.jpg",
+            "calificaciion": "8.5",
+            "duracion":"85:00",
+            "descripcion":"Al parecer el dios Hades ha reencarnado en el presente y planea, como en los tiempos de guerra santa, darle batalla a los demás dioses y generar el caos entre los mortales, por lo que envía a sus espectros y a caballeros de Atena -resucitados por él- a atacar el santuario de ella. Atena y sus caballeros, incluso los resucitados por Hades, tienen planes ocultos al respecto. Adaptación de la saga final del manga original de Los Caballeros del Zodiaco, realizada aproximadamente 15 años después de su finalización, secuela directa de la saga de Poseidon vista en el manganime original. A mitad de su realización se creó una película que abría las puertas a una nueva saga original para animación, la del cielo, que hace de secuela directa de esta (Aunque hasta el momento no prosperó y se dió más importancia a otros títulos de la franquicia). Esta secuela ignora por completo los fillers (Capítulos y conceptos inventados para la versión animada) del anime original, así por ejemplo personajes como los caballeros de acero o los de la saga de Asgard no aparecen ni se mencionan, sin embargo, se toma algunas licencias a la hora de adaptar el manga (Por ejemplo algunos caballeros de plata apareciendo entre los resucitados por Hades, o por ejemplo Ikki aparece mucho más tempranamente que en el manga)."
+        },
+        
+        {
+            "id": 2,
+            "titulo": "Los Caballeros del Zodiaco",
+            "lanzamiento": "1986- 1989",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630742107/api_sprint2/Los_Caballeros_del_Zodiaco_aqyo4s.jpg",
+            "calificaciion": "8.5",
+            "duracion":"65:00",
+            "descripcion":"Serie de TV (1986-1989). Popular serie de animación basada en un manga y anime que relata la historia de 5 míticos guerreros llamados 'caballeros', que han adoptado varias constalaciones como símbolos guardianes. Fue emitida en la cadena televisiva TV Asahi desde Octubre de 1986 hasta Abril de 1989 en tres temporadas de 114 episodios. Inicialmente, la serie de televisión tenía planeadas 52 capítulos, pero su popularidad fue tan grande que se extendió a 73 episodios, convirtiéndose en la primera temporada de la serie y que corresponde al primer capítulo del manga, Santuario con algunos extras en el intermedio. Antes de que venciera el contrato fue pactada una segunda temporada, Asgard (episodios 74 al 99), que no estaba basada directamente en el manga, sino que fue inspirada en el episodio Hyoga en el país de los hielos que se encuentra al final del tomo 13 del manga. Posteriormente siguió una tercera temporada correspondiente al segundo capítulo del manga, Poseidón (ep. 100 al 114). Lamentablemente, la productora decidió no continuar con el tercer capítulo del manga, Hades dejando de esta manera la historia inconclusa. Cabe resaltar que gran parte del éxito de la serie se debe a su dibujante en el anime, Shingo Araki, el cual realizó un gran cambio en el diseño de los personajes originales del manga, dándoles un toque más moderno, estilizado y sorprendente. El maestro Araki, junto con su inseparable colaboradora Michi Himeno, han diseñado personajes en innumerables series de dibujos animados, tanto en su país natal como colaborando en producciones internacionales, entre las cuales se encuentran éxitos como Ulises XXXI o El Inspector Gadget."
+        },
+
+        {
+            "id": 3,
+            "titulo": "Los caballeros del Zodiaco: La batalla de los dioses",
+            "lanzamiento": "1988",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630742107/api_sprint2/Los_caballeros_del_Zodiaco-La_batalla_de_los_dioses_ejnv8d.jpg",
+            "calificaciion": "6.8",
+            "duracion":"1:20",
+            "descripcion":"Seiya y los demás santos dejan Japón, para dirigirse hacia Asgard, donde deberán buscar a Hyōga, quien ha desaparecido, y enfrentar a los guerreros de Asgard y a su patriarca. Una vez más, como era de esperar, la lucha de los heroicos Santos de Bronce tendrá como finalidad salvar a su protectora, la diosa Atenea (Saori Kido)."
+        },
+
+        {
+            "id": 4,
+            "titulo": "Los caballeros del Zodiaco: La diosa malvada Eris",
+            "lanzamiento": "1987",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630742107/api_sprint2/Los_caballeros_del_Zodiaco-La_diosa_malvada_Eris_gthkrq.jpg",
+            "calificaciion": "6.5",
+            "duracion":"1:25",
+            "descripcion":"Eris, la diosa de la discordia, ha vuelto a la Tierra bajo la forma de una manzana de oro, tomando posesión del cuerpo de Erii Aizawa, una joven maestra del orfanato de la Fundación Graude. Resucitando a los santos fantasmas y capturando a Saori Kido, la reencarnación de Atenea, Eris desafía a los santos de bronce a enfrentar a sus nuevos servidores en las inmediaciones de su templo. Sin tiempo que perder, Seiya y sus amigos acuden a la batalla, con el objetivo de salvar la vida de Atenea y desbaratar las ambiciones de Eris."
+        },
+
+        {
+            "id": 5,
+            "titulo": "Los Caballeros del Zodiaco contra Lucifer",
+            "lanzamiento": "1989",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630742107/api_sprint2/Los_Caballeros_del_Zodiaco_contra_Lucifer_qkpyx1.jpg",
+            "calificaciion": "6.6",
+            "duracion":"1:15",
+            "descripcion":"Despertado por los espíritus de Eris, Abel y Poseidón, y derrotando a los santos de oro, Lucifer regresa a la Tierra, acompañado de sus cuatro ángeles infernales, con el objetivo de vengarse de Atenea, destruir a la humanidad y proclamarse soberano absoluto del universo. Para evitarlo, Saori Kido, decide sacrificar su vida en el Pandemonium, residencia de Lucifer, mientras que los santos de bronce lucharán para salvarla."
+        },
+
+        {
+            "id": 6,
+            "titulo": "Los Caballeros del Zodiaco Contraatacan",
+            "lanzamiento": "1988",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630742107/api_sprint2/Los_Caballeros_del_Zodiaco_Contraatacan_fuhngd.jpg",
+            "calificaciion": "7.3",
+            "duracion":"1:30",
+            "descripcion":"Febo Abel, dios del Sol y hermano de Atenea, retorna a la Tierra y resucita a los santos de oro muertos en la batalla de las doce casas, a fin de llevarse a su hermana y extinguir a la humanidad, considerando que ha llegado a un estado decadente. No obstante, los santos de bronce, quienes aparentemente son abandonados por Saori, evitarán que Abel cumpla su propósito, por lo que deberán enfrentarse a los santos de oro y a los tres misteriosos santos de la Corona."
+        },
+
+        {
+            "id": 7,
+            "titulo": "Los Caballeros del Zodiaco: Obertura del Cielo",
+            "lanzamiento": "2004",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630742107/api_sprint2/Los_Caballeros_del_Zodiaco-Obertura_del_Cielo_claj9y.jpg",
+            "calificaciion": "7.1",
+            "duracion":"1:27",
+            "descripcion":"Después de la batalla con Hades, Seiya es dado por muerto. Saori se encarga de él y ahora esta confinado a una silla de ruedas, en una casa de descanso cerca del Santuario. Mientras el descansa, 3 sombras aparecen ante el: Ícaro, Odiseo y Theseo son guerreros celestiales, ellos son enviados por Artemisa, diosa de la Luna y hermana mayor de Athena, para acabar con Seiya. Saori se enfrenta a Artemisa y llegan a un acuerdo: Athena le dara a Artemisa su baculo sagrado, renunciando asi a todos los derechos sobre el Santuario y perdiendo todos sus poderes a cambio de perdonar la vida de Seiya. La meta de Artemisa es unicamente destruir la humanidad, que por largo tiempo se ha corrompido y han olvidado a los dioses mismos. Mientras tanto los demas Santos de Bronce se dan cuenta de lo que esta sucediendo, y se dirigen al Santuario para reunirse con Seiya, esperando encontrar una forma de llegar a Saori y salvarla."
+        },
+
+        {
+            "id": 8,
+            "titulo": "Naruto Shippuden",
+            "lanzamiento": "2007",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630743740/api_sprint2/naruto_shipudden_kubfmv.jpg",
+            "calificaciion": "8.8",
+            "duracion":"170:00",
+            "descripcion":""
+        },
+
+        {
+            "id": 9,
+            "titulo": "Naruto",
+            "lanzamiento": "2002",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630744127/api_sprint2/naruto_jin6nz.jpg",
+            "calificaciion": "8:00",
+            "duracion":"85:00",
+            "descripcion":"Naruto, un aprendiz de ninja de la Aldea Oculta de Konoha es un chico travieso que desea llegar a ser el Hokage de la aldea para demostrar a todos lo que vale. Lo que descubre al inicio de la historia es que la gente le mira con desconfianza porque en su interior est&aacute; encerrado el demonio Kyubi que una vez destruy&oacute; la aldea, y que el anterior l&iacute;der de la misma tuvo que encerrar en su cuerpo siendo a&uacute;n muy peque&ntilde;o, a coste de su vida. Aunque sus compa&ntilde;eros no saben esto, tampoco le aprecian porque es mal estudiante y siempre est&aacute; haciendo bromas. Sin embargo, la forma de actuar y la determinaci&oacute;n de Naruto demuestran a los dem&aacute;s que puede llegar muy lejos, y el recelo de los otros chicos se va disipando. Naruto y sus compa&ntilde;eros Sakura y Sasuke, junto a su maestro Kakashi tendr&aacute;n que enfrentarse a una serie de combates y misiones a lo largo de la historia que les permitir&aacute;n mejorar y crecer. Naruto se vera enfrentado a sus principales enemigos Akatsuki, Itachi y Kisame."
+        },
+
+        {
+            "id": 10,
+            "titulo": "Naruto Shippuden: Road to Ninja",
+            "lanzamiento": "2012",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630744127/api_sprint2/road-to_ninja_a8hdgt.jpg",
+            "calificaciion": "7.6",
+            "duracion":"1:10",
+            "descripcion":"Hace dieciséis años, una bestia demonio gigante conocido como el Zorro de Nueve Colas fue liberado de su jinch&#363;riki por un desconocido ninja enmascarado. La aldea de Konoha estaba cerca de la destrucción por el ataque de las Nueve Colas, pero el pueblo fue salvado por su líder. Minato Namikaze y su esposa Kushina Uzumaki 'quién era el jinchuriki en el momento del ataque' ellos sellaron al demonio en el interior de su hijo recién nacido: Naruto Uzumaki. Con el zorro demonio sellado, las cosas seguían como de costumbre. Sin embargo, la paz de la aldea no duró mucho tiempo, porque Pein, Konan, Itachi Uchiha, Kisame Hoshigaki, Sasori, Deidara, Hidan y Kakuzu 'miembros de una temida organización llamada Akatsuki' atacó Konoha. Naruto estrictamente se las arregló para lanzar un contraataque pero ¿Por qué han aparecido estos ninjas cuando todos ellos estaban destinados a haber muerto? El misterio se mantiene, pero los ninjas son elogiados por sus familias para completar una misión tan peligrosa. Sin embargo, uno de ellos que nunca ha conocido las caras de sus padres, Naruto, no puede dejar de sentirse solo. En ese momento, de repente, el hombre enmascarado hace su aparición en Konoha. Naruto y Sakura son a la vez atacados por un d&#333;jutsu nuevo y misterioso de aquel hombre. La película se basa en una realidad alterna del universo de Naruto, en la que él nunca perdió a sus padres, y Tobi, lleva a cabo su plan 'Ojo de Luna' para gobernar el mundo, sumiéndolo bajo una ilusión. En esta película los personajes como Sasuke Uchiha tiene una personalidad más agradable y gentil, además de que le gusta Sakura Haruno. Hinata Hyuga tiene una personalidad rebelde y provocativa. Tsunade es plana y menos bella."
+        },
+
+        {
+            "id": 11,
+            "titulo": "Boruto: Naruto the Movie Naruto ga Hokage ni Natta Hi",
+            "lanzamiento": "2016",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630744127/api_sprint2/pelicula_boruto_lq1seh.jpg",
+            "calificaciion": "7.4",
+            "duracion":"1:40",
+            "descripcion":"La historia se sitúa en medio de los exámenes chunin para entrenar a ninjas de la alianza shinobi, entre ellos se encuentra el equipo Konohamaru, que lo conforman: Sarada Uchiha, quien adora y admira mucho a Naruto por lo cual ella también aspira a convertirse en Hokage, Boruto Uzumaki, y Mitsuki, un talentoso y misterioso shinobi del cual se desconoce todo sobre su vida."
+        },
+
+        {
+            "id": 12,
+            "titulo": "Naruto Shippuden: Blood Prison",
+            "lanzamiento": "2011",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630744127/api_sprint2/blood_prison_gtiitq.jpg",
+            "calificaciion": "7.5",
+            "duracion":"1:14",
+            "descripcion":"Después de ser capturado por el intento de asesinar al líder de Kumogakure, el Raikage, y el asesinato de varios Jonin de Kirigakure y Iwagakure, Naruto es encarcelado en H&#333;zukijou, una instalación de contención penal también conocida como la prisión de la sangre. El capitán del castillo, Mui, usa el jutsu de prisión máxima para robar el poder de los prisioneros. La batalla para demostrar su inocencia y descubrir la verdad ha comenzado para Naruto y sus amigos."
+        },
+
+        {
+            "id": 13,
+            "titulo": "Naruto: Shippuuden Movie 7 - The Last",
+            "lanzamiento": "2014",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630744127/api_sprint2/pelicula_the_last_g8bol0.jpg",
+            "calificaciion": "7.8",
+            "duracion":"1:28",
+            "descripcion":"Naruto y la séptima y última película de Naruto Shippuden, hecha para conmemorar el 15º aniversario de la franquicia. Esta es también la primera entrada del proyecto El Inicio de una Nueva Era, y la primera película en ser parte oficial de la historia del canon original de Naruto y está situada entre los dos últimos capítulos de la serie manga original. La nueva película también está presentando la próxima generación de personajes, que todavía tienen que ser entrenados."
+        },
+
+        {
+            "id": 14,
+            "titulo": "Boruto: Naruto Next Generations",
+            "lanzamiento": "2017",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630744127/api_sprint2/Boruto-Naruto_Next_Generations_c07xmp.jpg",
+            "calificaciion": "5.6",
+            "duracion":"60:00",
+            "descripcion":"Esta es una secuela de las series de Naruto, la cual sigue la historia de Boruto el hijo de Naruto. La aldea oculta de la hoja ha continuado su moderinización pero siempre manateniendo la paz. Carros eléctricos recorren toda la ciudad conectada por distritos llenos de rascacielos con enormes monitores mostrando todo tipo de imágenes. En esta era, la aldea oculta de la hoja es ahora una cuidad ninja solo en nombre ya que ahora muchas personas normales han venido a vivir aquí. También el estilo de vida de los ninjas ha cambiado... Boruto, el hijo del séptimo Hokage y el actual lider de la aldea, se ha matriculado en la academia ninja para aprender todo sobre lo que necesita saber en las artes ninjas. Los estudiantes que rodean a Boruto se refieren a él como 'el hijo del Hokage', pero Boruto con su peculiar personalidad se hará un nombre por él mismo. Boruto encontrá nuevos amigos y aliados, pero ¿cómo podrá lidear con todos esos misteriorsos incidentes que se le presentarán? Es así como comienza la historia de Boruto Uzumaki."
+        },
+
+        {
+            "id": 15,
+            "titulo": "Naruto Shippuden Pelicula",
+            "lanzamiento": "2007",
+            "portada":"",
+            "calificaciion": "7.3",
+            "duracion":"1:05",
+            "descripcion":"Les dejamos la ultima sinopsis de The Lost Tower: Tsunade asigna una nueva misión a Naruto, Sakura y Yamato para perseguir y atrapar al ninja desertor Mukade, 'el grupo de Kakashi' emprende su viaje a las ruinas históricas de ?Ouran? situada en el país de la Arena. El objetivo se encuentra dentro de las ruinas, Naruto entra en las ruinas para completar la misión, pero sin saber que en ese lugar se encuentra un poder oculto (Ryuumyaku), Mukade lo invoca y Naruto termina siendo absorbido por la energía liberada... ¡Naruto vuelve al pasado!!! Después de perder la conciencia, abrió los ojos y ve algo sorprendente: una ciudad rodeada de muchas torres que de su altura se pierden en el cielo. Sin darse cuenta del incidente, Naruto sigue su búsqueda de Mukade pero se encuentra con Sara, la reina de la ciudad. Sara le explica a a Naruto que esa es la ciudad de Ouran que durante su apogeo la gente vivía en paz y amaba-a su joven reina, hasta que se supo que el misterioso Ministro Anrokuzan estaba construyendo una terrible arma. Minato. 'Hace seis años, de repente apareció otro ninja del futuro como tú!!.' Aquel ministro era Mukade Anrokuzan, que ocultaba su identidad y quien estaba reuniendo una misteriosa energía para poder liberar el poder de Ryuumyaku. El Tercer Hokage, Sarutobi Hiruzen, se_había enterado de los terribles plantes de Mukade e inmediatamente envía un equipo de ninjas compuesto por Minato, Chouza, Shibi y Kakashi Hatake. Entre miles de torres se desata una pelea entre las marionetas de Mukade, Naruto, Sara y Minato..."
+        },
+
+        {
+            "id": 16,
+            "titulo": "Nanatsu no Taizai",
+            "lanzamiento": "2014",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630745558/api_sprint2/Nanatsu_no_Taizai_sgvyaw.jpg",
+            "calificaciion": "7.8",
+            "duracion":"50:00",
+            "descripcion":"Los &ldquo;Siete Pecados Capitales&rdquo;, un grupo de caballeros malignos que conspiraron para derrocar al Reino de Britania, se dice que fueron erradicados por los Caballeros Sagrados, aunque algunos dicen que a&uacute;n viven. Diez a&ntilde;os despu&eacute;s, los Caballeros Sagrados dieron un golpe de estado y asesinaron al rey, convirti&eacute;ndose en los nuevos y tir&aacute;nicos regidores del reino. Elizabeth, la &uacute;nica hija del rey, emprende un viaje para encontrar a los &ldquo;Siete Pecados Capitales&rdquo; y conseguir su ayuda para recuperar el reino."
+        },
+
+        {
+            "id": 17,
+            "titulo": "Nanatsu no Taizai: Seisen no Shirushi",
+            "lanzamiento": "2016",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630745558/api_sprint2/Nanatsu_no_Taizai-Seisen_no_Shirushi_seutzg.jpg",
+            "calificaciion": "7.0",
+            "duracion":"3o:00",
+            "descripcion":"Nanatsu vuelve con un anticipo de lo que será su ya anunciada segunda temporada, esta vez se trata de un pequeño arco de cuatro episodios."
+        },
+
+        {
+            "id": 18,
+            "titulo": "Nanatsu no Taizai: Kamigami no Gekirin",
+            "lanzamiento": "2019",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630745558/api_sprint2/Nanatsu_no_Taizai-KamigaminoGekirin_bqlyft.jpg",
+            "calificaciion": "6.5",
+            "duracion":"22:00",
+            "descripcion":" Tercera temporada del animu de escadios y el enano demonio que trata de salvar a su waifu que está re buena en repetidas ocasiones. Ahora sí se viene lo shido.png"
+        },
+
+        {
+            "id": 19,
+            "titulo": "Nanatsu no Taizai: Fundo no Shinpan",
+            "lanzamiento": "2021",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630745558/api_sprint2/Nanatsu_no_Taizai-Kamigamino_Gekirin_dhbmqu.jpg",
+            "calificaciion": "6.7",
+            "duracion":"1:50",
+            "descripcion":"Tras la emisión de su episodio final, la última temporada de la adaptación animada del manga de Nanatsu no Taizai, que se titula Nanatsu no Taizai: Fundo no Shinpan (The Seven Deadly Sins: Dragon’s Judgement), publicó una actualización a su última imagen promocional. El visual conmemora una emisión total de cinco años de la franquicia de animación."
+        },
+
+        {
+            "id":20,
+            "titulo": "Nanatsu no Taizai: Imashime no Fukkatsu",
+            "lanzamiento": "2018",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630745558/api_sprint2/Nanatsu_no_Taizai-Imashime_no_Fukkatsu_pyfsnv.jpg",
+            "calificaciion": "7.2",
+            "duracion":"1:29",
+            "descripcion":"Despues de la \"Ressurreción de los 10 mandamientos\" que buscan venganza de Meliodas y los demas clanes (Hadas,Gigantes, Diosas y Humanos). Meliodas quiere romper la maldición que hay entre El (Meliodas) y su amada (Elizabeth)."
+        },
+
+        {
+            "id": 21,
+            "titulo": "Nanatsu no Taizai Movie: Tenkuu no Torawarebito",
+            "lanzamiento": "2018",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630745558/api_sprint2/Nanatsu_no_Taizai_Movie-Tenkuu_no_Torawarebito_aibaow.jpg",
+            "calificaciion": "2018",
+            "duracion":"1}:40",
+            "descripcion":"Los Siete Pecados Capitales viajan a una remota isla en busca del ingrediente conocido como 'pez cielo'. Meliodas y Hawk acaban en el 'Palacio del Cielo', el cual existe más allá de las nubes y está habitado por seres alados. A su llegada, Meliodas es confundido con un chico que cometió un crimen y acaba en prisión. Mientras, sus habitantes preparan una ceremonia para defenderse de una bestia que despierta cada 3.000 años. No obstante, los Seis Caballeros de Negro, un ejército del clan demoníaco, destruye el sello de la bestia y amenaza las vidas de los habitantes del Palacio. Meliodas y sus aliados se enfrentarán a estos caballeros en el campo de batalla."
+        },
+
+        {
+            "id": 22,
+            "titulo": "Dragon Ball Super",
+            "lanzamiento": "2015",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630746677/api_sprint2/Dragon_Ball_Super_hqhdly.jpg",
+            "calificaciion": "8.4",
+            "duracion":"130:00",
+            "descripcion":"La trama de la serie tiene lugar después de la batalla contra Pequeño Buu en medio del período de 10 años hacia el Torneo Mundial de las Artes Marciales 28. Está enlazada con las películas Dragon Ball Z: La Batalla de los Dioses y Dragon Ball Z: La Resurrección de F. La historia comienza a finales del Año 774, seis meses después de la derrota de Buu. La actual saga de Trunks del Futuro Alternativo ocurre el Año 780."
+        },
+
+        {
+            "id": 23,
+            "titulo": "Dragon Ball GT",
+            "lanzamiento": "1996",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630746677/api_sprint2/Dragon_Ball_GT_g6xxlu.jpg",
+            "calificaciion": "6.8",
+            "duracion":"100:00",
+            "descripcion":"Dragon Ball GT es un anime original creado por el estudio de animación japonés Toei Animation ubicada una década después del final de Dragon Ball Z, es el tercer anime de la serie de televisión japonesa Dragon Ball. A diferencia de las dos primeros animes, no se basa en el manga original Dragon Ball de Akira Toriyama, sino que fue creado como una secuela de la serie de anime.."
+        },
+
+        {
+            "id": 24,
+            "titulo": "Dragon Ball Z",
+            "lanzamiento": "1989",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630746677/api_sprint2/Dragon_Ball_Z_k1lvjq.jpg",
+            "calificaciion": "8.7",
+            "duracion":"320:00",
+            "descripcion":"Es la continuación de la serie de anime Dragon Ball, serie animada que fue dada a conocer en Japón en el año 1986. Dragon Ball comenzó como manga en 1984 y luego fue llevada a la animación por el estudio Toei Animation, bajo la mano de su creador, Akira Toriyama. Dragon Ball Z se divide básicamente en cuatro sagas: la llegada de los Saiyajins, la batalla contra Freezer, el nacimiento de Célula y el despertar de Monstruo Bu. De éstas se desprenden subsagas y algunas otras historias que no son originales del manga."
+        },
+
+        {
+            "id": 25,
+            "titulo": "Dragon Ball",
+            "lanzamiento": "1986",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630746678/api_sprint2/DragonBall_mkhdit.jpg",
+            "calificaciion": "8.5",
+            "duracion":"180:00",
+            "descripcion":"Hace mucho tiempo, en las montañas, el maestro de artes marciales Gohan descubrió a un excepcional niño que llegó a la Tierra en una cápsula durante una noche tormentosa, al que llamó Goku. Sin saber nada de su pasado, Gohan le crió como su nieto hasta los ocho años y le entrenó en artes marciales. Después de morir su abuelo, un buen día conoce a Bulma, una muchacha obsesionada con las misteriosas Bolas de Dragón. Juntos emprenderán la búsqueda de las siete bolas, una aventura que cambiará la vida de Goku para siempre."
+        },
+
+        {
+            "id": 26,
+            "titulo": "Dragon Ball: El camino hacia el más fuerte",
+            "lanzamiento": "1996",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630746678/api_sprint2/Dragon_Ball-El_camino_hacia_el_ma%CC%81s_fuerte_p1in8y.jpg",
+            "calificaciion": "6.9",
+            "duracion":"1:25",
+            "descripcion":"El camino hacia el más fuerte es la 17ª película basada basada en la serie de manga y anime Dragon Ball, y la 4º de la etapa Dragon Ball. Se hizo con motivo del 10º aniversario de la serie, y cuenta de una manera diferente desde el principio de la serie hasta el fin del Ejército Red Ribbon, con una mejora gráfica y efectos en 3D: Goku conoce a Bulma y juntos deciden ir en busca de las siete Dragon Ball para resucitar al Dragón Xeron y pedirle un deseo. Durante el viaje, se les une Ulong, Yamcha y Puar. Todos juntos se embarcan en una peligrosa aventura enfrentándose al terrible ejército de la Red Ribbon, mandados por el malvado general White. Goku combate a robots de gran poder y espectaculares técnicas de combate. Una vez superado el obstáculo, el grupo sigue su camino hasta enfrentarse al ejército del general Blue con la ayuda del Duende Tortuga. Goku tendrá que usar todo su poder para conseguir las siete Dragon Ball."
+        },
+
+        {
+            "id": 27,
+            "titulo": "Dragon Ball Super: Broly",
+            "lanzamiento": "2019",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630746677/api_sprint2/Dragon_Ball_Super-Broly_jqlmaa.jpg",
+            "calificaciion": "7.4",
+            "duracion":"1:43",
+            "descripcion":"La Tierra vive en paz después de que concluyó el Torneo de Fuerza. Luego de darse cuenta que los Universos aún tienen muchos guerreros poderosos, Gokú pasa todos los días entrenando para alcanzar un nivel de pelea mayor. Un día Gokú y Vegeta enfrentan a un nuevo saiyajin llamado “Broly”, a quien nunca antes han visto. Supuestamente, los saiyajin fueron arrasados durante la destrucción del planeta Vegeta; entonces ¿qué hace uno de ellos en la Tierra? Este encuentro entre tres saiyajin, que han tenido destinos diferentes, se convierte en una batalla estupenda, con Freezer (que ha vuelto del infierno) atrapado en medio de ellos."
+        },
+
+        {
+            "id": 28,
+            "titulo": "Dragon Ball Z: La Resurrección de Freezer",
+            "lanzamiento": "2015",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630746677/api_sprint2/Dragon_Ball_Z-La_Resurreccio%CC%81n_de_Freezer_qpaevc.jpg",
+            "calificaciion": "6.7",
+            "duracion":"1:55",
+            "descripcion":"Después de que Bills, el Dios de la destrucción, decidiera no destruir la Tierra, se vive una gran época de paz. Hasta que Sorbet y Tagoma, antiguos miembros élite de la armada de Freezer, llegan a la Tierra con el objetivo de revivir a su líder por medio de las Bolas de Dragón. Su deseo es concedido y ahora Freezer planea su venganza en contra de los Saiyajin. La historia hace que una gran oleada de hombres bajo el mando de Freezer lo acompañe."
+        },
+
+        {
+            "id": 29,
+            "titulo": "Dragon Ball: Aventura mística",
+            "lanzamiento": "1988",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630746678/api_sprint2/Dragon_Ball-Aventura_mi%CC%81stica_znudef.jpg",
+            "calificaciion": "6.2",
+            "duracion":"1:32",
+            "descripcion":"Después de haber terminado su entrenamiento con el maestro Roshi, Goku y Krilín participan en un torneo de artes marciales organizado por el rey Chaoz, quien tiene bajo su mando a varios integrantes de la armada de la patrulla roja. Mientras tanto, el consejero del emperador está intentando reunir las 7 bolas de dragón, y para ello cuenta con la ayuda de Tao Pai Pai y Ten Shin Han."
+        },
+
+        {
+            "id": 30,
+            "titulo": "Dragon Ball: La bella durmiente en el castillo del mal",
+            "lanzamiento": "1987",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630746677/api_sprint2/Dragon_Ball-_La_bella_durmiente_en_el_castillo_del_mal_ddllmi.jpg",
+            "calificaciion": "6",
+            "duracion":"1:11",
+            "descripcion":"La Bella Durmiente en el Castillo del Mal es la 2ª película basada en la serie de manga y anime Dragon Ball estrenada el 18 de julio de 1987. Es una continuación directa de La Leyenda del Dragón Shenron. Para poder ser aceptados como alumnos del Duende Tortuga, Goku y Krilín deben cumplir una mision: salvar a la bella durmiente que descansa en el castillo del mal."
+        },
+
+        {
+            "id": 31,
+            "titulo": "Dragon Ball: La leyenda del dragón Shenron",
+            "lanzamiento": "1986",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630746678/api_sprint2/Dragon_Ball-La_leyendadeldrago%CC%81nShenron_zkbrkp.jpg",
+            "calificaciion": "6.2",
+            "duracion":"1:12",
+            "descripcion":"Primera película animada de Dragon Ball. Viene a ser un resumen de los primeros capítulos de la serie, pese a incorporar algunos cambios. Cuenta la leyenda que hay siete esferas de dragón desparramadas por toda la Tierra. Aquél que logre juntarlas podrá invocar al dragón Shen-Ron que es capaz de cumplir cualquier deseo. Acompaña a Goku, Bulma, Oolong, Yamcha y Puar en esta fantástica aventura mientras enfrentan al ambicioso Rey Gourmeth quien tiene oprimido a su pueblo. Esta película es la base que utilizaron en 1989 para hacer 'Dragon Ball: Comienza la magia'."
+        },
+
+        {
+            "id": 32,
+            "titulo": "Dragon Ball Z: El ataque del dragón ",
+            "lanzamiento": "1995",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630746678/api_sprint2/Dragon_Ball-La__leyenda_del_drago%CC%81nShenron_o87fch.jpg",
+            "calificaciion": "6.8",
+            "duracion":"1:00",
+            "descripcion":"Hoi, un extraño hechicero, le pide a Goku que reúna las bolas de dragón para liberar de su prisión al héroe de su planeta, Tapión. Goku accede a ayudarle, pero pronto se da cuenta de que Tapión es realmente un poderoso monstruo llamado Hildengan."
+        },
+
+        {
+            "id": 33,
+            "titulo": "Dragon Ball Z: La batalla de los dioses",
+            "lanzamiento": "2013",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630786370/api_sprint2/Dragon_Ball_Z-La_batalla_de_los_dioses_jmkuxn.jpg",
+            "calificaciion": "6.5",
+            "duracion":"1:44",
+            "descripcion":"La historia se sitúa varios años después de la batalla con Majin Buu. Bils, el Dios de la destrucción que mantenía el equilibrio del universo, se ha despertado de un largo sueño. Al escuchar rumores sobre un saiyajin que ha vencido a Freezer, Bils parte a la búsqueda de Goku. Emocionado por el hecho de que haya aparecido un oponente tan poderoso tras tanto tiempo, Goku ignora las advertencias de Kaito y decide enfrentarse a él."
+        },
+
+        {
+            "id": 34,
+            "titulo": "Dragon Ball Z: ¡Fusión!",
+            "lanzamiento": "1995",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630786369/api_sprint2/Dragon_Ball_Z-_Fusio%CC%81n_bcvspw.jpg",
+            "calificaciion": "7.2",
+            "duracion":"1:31",
+            "descripcion":"En el 'Otro mundo', un pequeño error provoca la aparición de un poderoso monstruo llamado Janemba, que ha sido creado con toda la maldad de los habitantes del Infierno. Para derrotarlo, a Vegeta y a Goku no les queda otro remedio que fusionarse y convertirse así en el guerrero más fuerte del Universo."
+        },
+
+        {
+            "id": 35,
+            "titulo": "Dragon Ball Z: El combate definitivo",
+            "lanzamiento": "1994",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630786369/api_sprint2/Dragon_Ball_Z-_Elcombatedefinitivo_diab0p.jpg",
+            "calificaciion": "5.8",
+            "duracion":"1:05",
+            "descripcion":"Mr. Satán acepta el desafío de un viejo conocido, Vagger Batta, para combatir contra sus bioguerreros. Satán no quiere problemas y prefiere llevarse al androide N°18 para que luche por él. Todo va bien hasta que entra en escena el luchador estrella de Vagger, un bioguerrero creado a partir del ADN de Broly. "
+        },
+
+        {
+            "id": 36,
+            "titulo": "Dragon Ball Z: El regreso de Broly",
+            "lanzamiento": "1994",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630786370/api_sprint2/Dragon_Ball_Z-El_regreso_de_Broly_pj0sox.jpg",
+            "calificaciion": "6.2",
+            "duracion":"1:22",
+            "descripcion":"Broly regresa clamando venganza. Tras ser derrotado por Goku en una dura batalla en el planeta Neo Vegeta, Broly logra escapar en una cápsula espacial y llega a la Tierra. Allí queda congelado en un lago durante 7 años. Mientras, buscando las bolas de dragón, Videl, Goten y Trunks llegan a un extraño pueblo amenazado por la presencia de un monstruo. Los sollozos de Goten despiertan a Broly y comienza una batalla."
+        },
+
+        {
+            "id": 37,
+            "titulo": "Dragonball Z: Los guerreros de plata",
+            "lanzamiento": "1993",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630786371/api_sprint2/Dragonball_Z-Los_guerreros_de_plata_o4xenr.jpg",
+            "calificaciion": "6.7",
+            "duracion":"1:25",
+            "descripcion":"El rico Gyosan Money organiza un nuevo torneo de las artes marciales y Mr. Satán desafía a todos los luchadores. Mientras Piccolo y Vegeta se mantienen al margen, Gohan, Trunks y Krilín se clasifican para la final del torneo. Lo que desconocen es que el poderoso Bojack y su banda han escapado de su prisión en el planeta Kaito y pretenden conquistar el Universo. Goku observa desde el Más Allá cómo sus amigos van cayendo hasta quedar sólo Gohan."
+        },
+
+        {
+            "id": 38,
+            "titulo": "Dragon Ball Z: Estalla el duelo (El guerrero legendario)",
+            "lanzamiento": "1993",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630786371/api_sprint2/Dragon_BallZ-Estalla_el_duelo__El_guerrero_legendario_nlnoyl.jpg",
+            "calificaciion": "7.2",
+            "duracion":"1:23",
+            "descripcion":"Un desconocido saiyan, Paragus, llega a la Tierra en busca de Vegeta para pedirle que gobierne el nuevo mundo de los saiyan y así reestablecer el antiguo poder de su raza. Trunks, Goku, Piccolo y Gohan acompañan a Vegeta al planeta de los saiyans. Pero el objetivo real de Paragus es que Broly, el súper saiyan legendario, extermine a los últimos saiyans que quedaban en la Tierra."
+        },
+
+        {
+            "id": 39,
+            "titulo": "Dragon Ball Z: Los 3 grandes Súper Saiyajin",
+            "lanzamiento": "1992",
+            "portada":"",
+            "calificaciion": "6.5",
+            "duracion":"1:00",
+            "descripcion":"Cuando el Dr. Gero murió asesinado por N°17, el ordenador central no quedó desactivado y siguió trabajando en la creación de tres nuevos androides, N°13, N°14 y N°15, con el único objetivo de destruir a Son Goku. Pero Goku no está solo: Vegeta y Trunks pelean a su lado."
+        },
+
+        {
+            "id": 40,
+            "titulo": "Dragon Ball Z: Guerreros de fuerza ilimitada",
+            "lanzamiento": "1992",
+            "portada":" https://res.cloudinary.com/dd01p9lb9/image/upload/v1630786370/api_sprint2/Dragon_Ball_Z-Guerreros_de_fuerza_ilimitada_xjvmgh.jpg",
+            "calificaciion": "6.5",
+            "duracion":"1:23",
+            "descripcion":"Cuando Dende, el nuevo kamisama, se entera de que el planeta Namek está en peligro, pide ayuda a Goku y sus amigos para que salven su planeta natal. Al llegar, Goku y los demás se dan cuenta de que una especie de estrella está atacando al planeta. Detrás de todo esto está Cooler, el hermano mayor de Freezer, al que pensaban que Goku había vencido."
+        },
+
+
+        {
+            "id": 41,
+            "titulo": "Dragon Ball Z: Los mejores rivales",
+            "lanzamiento": "1991",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630786370/api_sprint2/Dragon_Ball_Z-Los_mejores_rivales_qchsxj.jpg",
+            "calificaciion": "6.6",
+            "duracion":"1:30",
+            "descripcion":"Tras enterarse de la muerte de Freezer, Cooler llega a la Tierra con la intención de matar a Son Goku, para vengar la muerte de su hermano y así acabar con la raza de los Saiyajin a los cuales Cooler y todos los de su especie odian."
+        },
+
+
+        {
+            "id": 42,
+            "titulo": "Dragon Ball Z: El súper guerrero Son Goku",
+            "lanzamiento": "1991",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630786369/api_sprint2/Dragon_Ball_Z-El_su%CC%81per_guerrero_Son_Goku_ykzw8w.jpg",
+            "calificaciion": "5.9",
+            "duracion":"1:10",
+            "descripcion":"En Capsule Corporation descubren que un gigantesco asteroide va a chocar contra la Tierra, todos intentan esconderse para protegerse del asteroide, pero Goku y Krilin intentan detenerlo. En un principio parece que fallan y pierden el conocimiento. Justo antes de que el asteroide se estrellase contra la Tierra explota en miles de pedazos por el fuerte ataque de Goku y Krilin, de el asteroide sale una nave y de ella montones de soldados que informan a los humanos curiosos que se acercaron que el planeta desde ese momento pertenecía a Lord Slug (un namekiano que fue expulsado de su planeta natal por su maldad). Su fin es reunir las bolas de dragón para recuperar la juventud y convertir el planeta en un sitio adecuado para el ejército de demonios que le acompaña."
+        },
+
+
+        {
+            "id": 43,
+            "titulo": "Dragon Ball Z: La súper batalla",
+            "lanzamiento": "1990",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630786371/api_sprint2/Dragon_Ball_Z-La_su%CC%81per_batalla_modytv.jpg",
+            "calificaciion": "6.3",
+            "duracion":"1:23",
+            "descripcion":"Sexta película basada en el manga/anime de Akira Toriyama y tercera de la etapa Dragon Ball Z. Una banda de desertores del ejército de Freezer, capitaneada por el misterioso Tarles, llega a la Tierra con una semilla terrible. Una vez plantada, surge un árbol monstruoso que amenaza con absorber toda vida en el planeta. Por una broma del destino, Tarles resulta ser un saiyan que se parece a Son Goku como si fuera su hermano gemelo.."
+        },
+
+        {
+            "id": 44,
+            "titulo": "Dragon Ball GT: 100 años después",
+            "lanzamiento": "1997",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630786369/api_sprint2/Dragon_Ball_GT-100_an%CC%83os_despue%CC%81s_sucro9.jpg",
+            "calificaciion": "6.2",
+            "duracion":"1:10",
+            "descripcion":"La historia se sitúa a 100 años después del final de DBGT. La nieta de Goku, Pan, es ahora la abuelita de Goku Jr. (que vendría siendo el tatataranieto de Goku) quien tiene un carácter débil y no conoce su gran poder. Al enfermar Pan, Goku Jr. decide armarse de valor y salir a buscar las bolas de dragón. Por el camino se enfrentará a numerosos peligros que le harán descubrir el gran poder que lleva dentro."
+        },
+
+        {
+            "id": 45,
+            "titulo": "Dragon Ball Z: El más fuerte del mundo",
+            "lanzamiento": "1990",
+            "portada":"",
+            "calificaciion": "6.1",
+            "duracion":"1:45",
+            "descripcion":"Shen Long es invocado por el Dr. Kochin, el cual pide como deseo que el Dr. Wheelo y su laboratorio, sean descongelados del hielo irrompible. Más tarde, el Dr. Kochin secuestra al Maestro Roshi junto con Bulma, para transferir el cerebro del Dr. Wheelo a el cuerpo del 'Hombre más fuerte del Mundo', pero Bulma se encarga de informarle, que el Más fuerte de este Mundo, actualmente, es Gokú, el cúal se encuentra en camino para ir a rescatarlos.."
+        },
+
+        {
+            "id": 46,
+            "titulo": "Dragon Ball Z: Garlic Junior inmortal (Devolvedme a mi Gohan",
+            "lanzamiento": "1989",
+            "portada":"Garlick y Kami Sama compitieron hace mucho por ser el Dios de la Tierra. Garlick salió derrotado y ahora su hijo Garlick Jr. desea conseguir lo que su padre no pudo. Para ello necesita la vida eterna y comienza a reunir las bolas de dragón, pero descubre que una de ellas está en poder de Gohan, así que decide secuestrarlo.",
+            "calificaciion": "6.2",
+            "duracion":"1:21",
+            "descripcion":""
+        },
+
+        {
+            "id": 47,
+            "titulo": "Los Super Campeones: Road to",
+            "lanzamiento": "2001",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630787985/api_sprint2/Los_Super_Campeones-Road_to_w0zy8u.jpg",
+            "calificaciion": "7.8",
+            "duracion":"35:00",
+            "descripcion":"Tras haber ganado el campeonato del mundo sub19, Tsubasa Ozora pide la mano de su gran amiga, Sanae, quien no se lo piensa mucho y acepta. También ha sido fichado por el Barcelona F.C., mientras que los demás se van a distintos equipos profesionales, como Hyuga, que se va al Juventus, o Wabayashi, quien se va al Hamburgo... Los demás se reparten en toda la J-League."
+        },
+
+        {
+            "id": 48,
+            "titulo": "Captain Tsubasa",
+            "lanzamiento": "2018",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630787985/api_sprint2/Captain_Tsubasa_yxleqw.jpg",
+            "calificaciion": "8.4",
+            "duracion":"25:00",
+            "descripcion":"La historia apasionada de un estudiante de escuela primaria cuyos pensamientos y sueños giran casi por completo en torno al amor por el fútbol. Tsubasa Oozora, de 11 años de edad, comenzó a jugar fútbol a una edad muy temprana, y si bien se trató de un deporte recreativo para sus amigos, para él se convirtió en una especie de obsesión. Para perseguir su sueño a lo mejor de sus habilidades en la escuela primaria, Tsubasa se muda con su madre a la ciudad de Nankatsu, que es conocida por sus excelentes equipos de fútbol de la escuela primaria. Pero aunque fue fácilmente el mejor en su ciudad vieja, Nankatsu tiene mucha más competencia, y necesitará toda su habilidad y talento para sobresalir entre esta nueva multitud. Encuentra no solo rivales, sino también nuevos amigos como la linda chica Sanae Nakazawa y el talentoso portero, Genzo Wakabayashi, que comparte la misma pasión que Tsubasa, y se convertirá en un amigo atesorado que lo ayudará a empujar hacia sus sueños. Representar a Japón en la Copa Mundial de la FIFA es el último sueño de Tsubasa, pero se necesitará mucho más que talento para alcanzarlo."
+        },
+
+        {
+            "id": 49,
+            "titulo": "Los Súper Campeones J",
+            "lanzamiento": "1994",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630787985/api_sprint2/er_Campeones_J_evw7e3.jpg",
+            "calificaciion": "7.7",
+            "duracion":"45:00",
+            "descripcion":"Capitán Tsubasa J es un anime que se estrenó el 21 de Octubre de 1994, presentando una mejora visual en la animación. Los capítulos que van desde el 1 hasta el 33, son un remake del campeonato japonés infantil. El resto de la serie nos muestra las historias de los personajes y su preparación para el Mundial. En esta serie aparece Aoi Shingo, por primera vez.Episodio 1-34 Oliver Atom se muda con su madre a la ciudad de Fujisawa. Tan pronto llega se inscribe al equipo de fútbol de la escuela Niupi (Nankatsu). Se hace amigo de Bruce Harper (Ryo Ishizaki) y Tom Misaki (Taro Misaki) que se inscribe un poco despues. Gracias a Oliver y Tom, el Niupi consigue empatar en el partido contra el San Francis (Shutetsu) del cual es parte el portero genio Benji Price (Genzo Wakabayashi). No mucho despues, se hace una selección entre equipos de la ciudad, de la cual se forma el New Team. El equipo participa del campeonato nacional entre primarias y logra vencer a varios equipos fuertes como el Hanawa de los hermanos Koriotto, el Musashi de Andy Johnson y el Meiwa de Steve Hyuga. Episodio 35-47 La segunda parte del anime comienza con Aoi Shingo, un nuevo personaje que de luego de tanto esfuerzo y perseveracia consigue entrar en el Inter de Milan. Mientras Oliver que entró al Sao Paolo, ganó el campeonato brasileño derrotando al Flamengo de Carlos Santana. Mientras, los jugadores de la selección nacional de Japón están entrenado para el mundial Sub-20. Un día, en uno de los entrenamientos, se presenta un equipo de siete jugadores, el Real Japón y desafia en un partido amistoso a siete jugadores de la selección ganandoles. Luego del partido el entrenador de la selección se enferma y el mando lo toma Gamo, el entrenador de los 7 del Real Japón y expulsa a Tom Misaki, Steve Hyuga, David Eagles, Victor Clifford y a los hermanos Koriotto, para que estos mejoren su nivel de juego. Gracias a Oliver, Benji y Aoi, el equipo nacional de Japón consigue superar la calificación, a pesar de las dificultades contra el equipo de Tailandia. Mientras los siete excluidos vuelven con nuevas tecnicas, vencen a los 7 del Real Japón y son reincorporados a la selección"
+        },
+
+        {
+            "id": 50,
+            "titulo": "Yu-Gi-Oh!",
+            "lanzamiento": "2000",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630788536/api_sprint2/Yu-Gi-Oh_caviem.jpg",
+            "calificaciion": "8.4",
+            "duracion":"45:00",
+            "descripcion":"Yu-Gi-Oh (Significa Rey de los Juegos), Su personaje principal Yugi M?t? en compañía de sus mejores amigos Katsuya Jonouchi (Joseph Wheeler), Anzu Mazaki (Téa Gardner), y Hiroto Honda (Tristán Taylor), pero también tiene la compañía de un espíritu de un Antiguo Faraón 'Atem'; tienen aventuras que están estrechamente ligadas a un juego de cartas 'Duelo de Monstruos', un juego ligado con el pasado de egipto el cual se jugaba en tiempos antiguos y que es descubierto por Pegasus J. Crawford (maximilian Pegasus), este es el creador de el Juego 'Duelo de Monstruos' tomando como base lo que paso en egipto hace mucho tiempo. Del juego se crean torneos y campeonatos nacionales e internacionales, participando Yugi M?t? obteniendo el titulo de 'Rey de los Juegos'. Yugi M?t? y su contraparte el Antiguo Faraón 'Atem' se enfrentan a muchas vicisitudes ocasionadas por enemigos en su mayoia del pasado de el faraon, teniendo el faron con la ayuda de Yugi la labor de detenerlos." 
+        },
+
+        {
+            "id": 51,
+            "titulo": "Yu-Gi-Oh! La Película: Pirámide de la Luz",
+            "lanzamiento": "2004",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630788536/api_sprint2/Yu-Gi-Oh_La_Peli%CC%81cula-Pira%CC%81mide_de_la_Luz_bvsa4z.jpg",
+            "calificaciion": "5.1",
+            "duracion":"2:00",
+            "descripcion":"Basada en el fenómeno del cómic, los cromos y la serie de televisión, 'Yu-Gi-Oh! La película' es la historia de Yugi, un muchacho cautivado por un juego de cartas que está arrasando la nación. Pero el juego es más complicado de lo que parece, ya que contiene antiguas energías místicas que pueden cambiar el curso de la historia. En lo profundo de las arenas de Egipto, un viejo mal ha despertado. Anubis, que fue derrotado hace siglos por el misterioso alter ego de Yugi –el Faraón– ha vuelto en busca de venganza para destruir a Yugi y dominar el mundo." 
+        },
+
+        {
+            "id": 52,
+            "titulo": "Saint Seiya: Alma de oro",
+            "lanzamiento": "2015",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630789233/api_sprint2/Saint_Seiya-_Alma_de_oro_yxjh6d.jpg",
+            "calificaciion": "7.7",
+            "duracion":"10:00",
+            "descripcion":"Después de dar sus vidas para destruir el Muro de los Lamentos y así ayudar a Seiya y sus amigos llegan a Hades para proteger a Atenea, los doce caballeros de oro reaparecen en Asgard, después de ser revivido misteriosamente. Mientras busca respuestas sobre por qué fueron llevados de vuelta a la vida y por que, los Santos de Oro debe luchar contra un nuevo enemigo que amenaza Asgard con sus nuevas, telas mejoradas." 
+        },
+
+        {
+            "id": 53,
+            "titulo": "Pokémon",
+            "lanzamiento": "1997",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630789728/api_sprint2/Poke%CC%81mon_sdeczq.jpg",
+            "calificaciion": "7.5",
+            "duracion":"135:00",
+            "descripcion":"La serie narra las aventuras del joven entrenador Pokemon de diez años Ash Ketchum, que decide comenzar su aventura para llegar a convertirse un día en un gran Maestro de Pokemon. Para ello deberá recorrer distintas regiones, capturar cuantos más pokemon pueda, y conseguir las medallas de gimnasio necesarias y así participar en la Liga Pokemon, ganarla y así estar un paso más cerca de convertirse en Maestro Pokemon. Para ello cuenta con la ayuda de Pikachu, su primer pokemon, que obtuvo de manos del Profesor Oak. En su recorrido conocerá y hará nuevos amigos, como Brock o Misty, que le acompañarán y ayudarán para conseguir alcanzar su sueño." 
+        },
+      
+
+        {
+            "id": 54,
+            "titulo": "Pokémon: la película",
+            "lanzamiento": "1998",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630789728/api_sprint2/Poke%CC%81mon-_la_peli%CC%81cula_bfh1ch.jpg",
+            "calificaciion": "6.3",
+            "duracion":"2:00",
+            "descripcion":"Un grupo de científicos ha estado trabajando en un laboratorio secreto, tratando de crear el Pokémon más fuerte que exista. Para ello, han tomado ADN de una muestra de cabello fosilizada del legendario Pokémon Mew, utilizando el código genético de la evasiva criatura para crear a Mewtwo mediante la ingeniería biológica. Ignorantes del poder de su creación, los científicos y sus laboratorios son destruídos por Mewtwo cuando se despierta. Airado con sus creadores, Mewtwo jura vengarse del mundo." 
+        },
+      
+
+        {
+            "id": 55,
+            "titulo": "Pokémon: Mewtwo contraataca: Evolución",
+            "lanzamiento": "2019",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630789728/api_sprint2/Poke%CC%81mon-Mewtwo_contraataca-Evolucio%CC%81n_py7ixd.jpg",
+            "calificaciion": "7.4",
+            "duracion":"1:59",
+            "descripcion":"La aventura comienza con el nacimiento del Pokémon más poderoso del mundo, creado por ingeniería genética utilizando el ADN del legendario Pókemon Mew. Determinado a probar su superioridad, Mewtwo reta a Ash, Pikachu y los mejores entrenadores a una competición de Pókemon como no ha habido otra igual." 
+        },
+      
+
+        {
+            "id": 56,
+            "titulo": "Pokémon 2: El poder de uno",
+            "lanzamiento": "1999",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630789728/api_sprint2/Poke%CC%81mon2-El_poder_de_uno_km9kqm.jpg",
+            "calificaciion": "6.1",
+            "duracion":"1:54",
+            "descripcion":"Segunda entrega del famoso videojuego japonés. Ash Ketchum, Pokémon y sus amigos llegan a la isla de Shamouti, y allí se transformarán en los protagonistas de una leyenda reencarnada; el equilibrio de la naturaleza representado por las tres poderosas aves Moltres (que domina el fuego), Zapdos (que representa los relámpagos) y Articuno (que conserva el hielo). Cuando Moltres resulta secuestrada según la profecía sólo un humano podrá salvarla." 
+        },
+
+        {
+            "id": 52,
+            "titulo": "Pokémon 3: El hechizo de los Unown",
+            "lanzamiento": "2000",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630789728/api_sprint2/Poke%CC%81mon3-_El_hechizo_de_los_Unown_yftgy2.jpg",
+            "calificaciion": "5.9",
+            "duracion":"1:45",
+            "descripcion":"El profesor Spencer Hale, un concienzudo investigador de los Pokémon, ha estado trabajando muy duro para conocer los secretos de un misterioso Pokémon llamado los Unown. Los Unown aparecen como 26 entidades individuales con las formas de letras del alfabeto. Tienen la capacidad de leer los sueños, pensamientos y emociones humanos y hacerlos realidad, pero un tipo especial de realidad. Mientr"
+        }
+    ]
+}
